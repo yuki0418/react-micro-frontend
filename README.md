@@ -1,4 +1,7 @@
 # How to run
+
+Need to run all of project below
+
 ## Run blogs
 ```
 cd blogs
